@@ -5,6 +5,7 @@
   - [x] Funktionen
   - [x] Rekursion und Iteration
   - [ ] Funktionen höherer Ordnung
+    - TODO: Memoization mit Funktionen höherer Ordnung
   - [ ] Closures und Scoping
   - [ ] Seiteneffekte und Pure Functions
   - [ ] Map, Reduce & Co.
