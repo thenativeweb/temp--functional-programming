@@ -110,14 +110,14 @@ const test = () => {
   if (oopLogger.debug('message') !== logDebug('message')) {
     throw "Debug test failed!"
   }
-  if (oopLogger.debug('message') !== logDebug('message')) {
-    throw "Debug test failed!"
+  if (oopLogger.info('message') !== logInfo('message')) {
+    throw "Info test failed!"
   }
-  if (oopLogger.debug('message') !== logDebug('message')) {
-    throw "Debug test failed!"
+  if (oopLogger.warning('message') !== logWarning('message')) {
+    throw "Warning test failed!"
   }
-  if (oopLogger.debug('message') !== logDebug('message')) {
-    throw "Debug test failed!"
+  if (oopLogger.error('message') !== logError('message')) {
+    throw "Error test failed!"
   }
 };
 
