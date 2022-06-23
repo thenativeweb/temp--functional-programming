@@ -24,8 +24,8 @@
 ## Links
 
 - [SICP.js](https://www.amazon.de/dp/0262543230)
-- [Video zu SICP.js, Teil 1](https://www.youtube.com/watch?v=4gm3RSumvLU)
-- [Video zu SICP.js, Teil 2](https://www.youtube.com/watch?v=lFs1sDO6ALE)
+- [Videoreihe zu SICP.js, wird noch fortgesetzt](https://www.youtube.com/playlist?list=PL6QrD7_cU23nAxplr627pg0AuHBIsjM8k)
 - [Category Theory in Haskell](https://en.wikibooks.org/wiki/Haskell/Category_theory)
 ​- [Bartosz Milewski - Category Theory Lecture Series:](https://www.youtube.com/watch?v=I8LbkfSSR58)
 ​- [Learn you a Haskell!](http://learnyouahaskell.com/chapters)
+
