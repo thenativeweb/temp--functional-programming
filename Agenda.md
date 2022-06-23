@@ -10,7 +10,7 @@
   - [x] Seiteneffekte und Pure Functions
   - [x] Map, Reduce & Co.
   - [x] Testen
-  - [ ] Currying, Partial Function Application
+  - [x] Currying, Partial Function Application
   - [ ] Monaden
   - [ ] Iteratoren, Generatoren, yield
   - [ ] Immutable Data Structures
