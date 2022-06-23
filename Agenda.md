@@ -11,7 +11,7 @@
   - [x] Map, Reduce & Co.
   - [x] Testen
   - [x] Currying, Partial Function Application
-  - [ ] Monaden
+  - [x] Monaden
   - [ ] Iteratoren, Generatoren, yield
   - [ ] Immutable Data Structures
 
