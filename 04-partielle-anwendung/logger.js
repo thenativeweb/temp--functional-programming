@@ -81,3 +81,44 @@ const greetUser = autoCurry(
 const germanGreeting = greetUser('Hallo');
 
 console.log(germanGreeting('Herrmann Mann'));
+
+const logDebug = (message) => {
+  throw "Not implemented!";
+}
+
+const logInfo = (message) => {
+  throw "Not implemented!";
+}
+
+const logWarning = (message) => {
+  throw "Not implemented!";
+}
+
+const logError = (message) => {
+  throw "Not implemented!";
+}
+
+const stringDestination = {
+  write(text) {
+    return text;
+  }
+}
+
+const test = () => {
+  const oopLogger = new Logger(plainTextFormatter, stringDestination);
+
+  if (oopLogger.debug('message') !== logDebug('message')) {
+    throw "Debug test failed!"
+  }
+  if (oopLogger.debug('message') !== logDebug('message')) {
+    throw "Debug test failed!"
+  }
+  if (oopLogger.debug('message') !== logDebug('message')) {
+    throw "Debug test failed!"
+  }
+  if (oopLogger.debug('message') !== logDebug('message')) {
+    throw "Debug test failed!"
+  }
+};
+
+test();
