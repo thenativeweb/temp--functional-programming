@@ -19,3 +19,10 @@
   - [ ] Dateiupload in die Cloud
   - [ ] Melden von Entitäten, die bewegt werden
   - [ ] Sicherheit
+
+
+## Links
+
+- [SICP.js](https://www.amazon.de/dp/0262543230)
+- [Video zu SICP.js, Teil 1](https://www.youtube.com/watch?v=4gm3RSumvLU)
+- [Video zu SICP.js, Teil 2](https://www.youtube.com/watch?v=lFs1sDO6ALE)
