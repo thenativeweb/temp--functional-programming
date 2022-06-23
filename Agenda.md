@@ -24,5 +24,5 @@
 ## Links
 
 - [SICP.js](https://www.amazon.de/dp/0262543230)
-- [Video zu SICP.js, Teil 1](https://www.youtube.com/watch?v=4gm3RSumvLU)
-- [Video zu SICP.js, Teil 2](https://www.youtube.com/watch?v=lFs1sDO6ALE)
+  - [Video zu SICP.js, Teil 1](https://www.youtube.com/watch?v=4gm3RSumvLU)
+  - [Video zu SICP.js, Teil 2](https://www.youtube.com/watch?v=lFs1sDO6ALE)
