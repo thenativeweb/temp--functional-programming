@@ -9,11 +9,11 @@
   - [x] Closures und lexikalisches Scoping
   - [x] Seiteneffekte und Pure Functions
   - [x] Map, Reduce & Co.
+  - [x] Testen
   - [ ] Immutable Data Structures
   - [ ] Currying, Partial Function Application
   - [ ] Lazy-Evaluation, Generatoren, yield
   - [ ] Monaden
-  - [ ] Testen
 
 - [ ] Fachlich
   - [ ] Dateiupload in die Cloud
