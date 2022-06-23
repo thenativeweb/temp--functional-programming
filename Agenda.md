@@ -10,10 +10,10 @@
   - [x] Seiteneffekte und Pure Functions
   - [x] Map, Reduce & Co.
   - [x] Testen
-  - [ ] Immutable Data Structures
   - [ ] Currying, Partial Function Application
-  - [ ] Lazy-Evaluation, Generatoren, yield
   - [ ] Monaden
+  - [ ] Iteratoren, Generatoren, yield
+  - [ ] Immutable Data Structures
 
 - [ ] Fachlich
   - [ ] Dateiupload in die Cloud
