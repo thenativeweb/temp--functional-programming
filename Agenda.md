@@ -12,8 +12,8 @@
   - [x] Testen
   - [x] Currying, Partial Function Application
   - [x] Monaden
+  - [x] Immutable Data Structures
   - [ ] Iteratoren, Generatoren, yield
-  - [ ] Immutable Data Structures
 
 - [ ] Fachlich
   - [ ] Dateiupload in die Cloud
