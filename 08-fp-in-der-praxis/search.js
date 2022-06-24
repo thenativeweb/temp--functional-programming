@@ -1,6 +1,10 @@
 'use strict';
 
 function abs (x) {
+  if (typeof x !== 'number') {
+    throw new Error('abs() expects a number');
+  }
+
   return x >= 0 ? x : -x;
 }
 
