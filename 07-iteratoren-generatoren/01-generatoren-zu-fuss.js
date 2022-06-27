@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 const integersUntil = (end) => Array.from({ length: end }).map((_, i) => i);
+=======
+const naturalNumbersUntil = (end) => Array.from({ length: end }).map((_, i) => i);
+>>>>>>> origin/main
 
 const isPrime = (num) => {
 	for (let i = 2; i <= Math.sqrt(num); i++) {
@@ -10,9 +14,13 @@ const isPrime = (num) => {
 	return true;
 }
 
+<<<<<<< HEAD
 
 // Braucht immer "end" viele Durchläufe, auch wenn man nur die ersten Paar Ergebnisse braucht!
 const naivePrimesUntil = (end) => integersUntil(end).filter((num) => isPrime(num));
+=======
+const naivePrimesUntil = (end) => naturalNumbersUntil(end).filter((num) => isPrime(num));
+>>>>>>> origin/main
 
 const take = (n, arr) => {
 	if (n === 0 || arr.length === 0) {
@@ -33,6 +41,7 @@ const time = (fn) => {
 }
 
 console.log(time(() => {
+<<<<<<< HEAD
 	console.log(take(10, naivePrimesUntil(10000000)));
 }));
 
@@ -112,3 +121,17 @@ const immutableIntegersGenerator = () => {
 const immutableIntegers_0 = immutableIntegersGenerator();
 const immutableIntegers_1 = immutableIntegers_0.next();
 const immutableIntegers_2 = immutableIntegers_1.next();
+=======
+	console.log(take(10, naivePrimesUntil(10000000)))
+}));
+
+// Unendlicher Generator
+
+const naturalNumbers = () => {
+	const nextNumber = 0;
+	
+	const generate = () => {
+	
+	}
+}
+>>>>>>> origin/main
