@@ -12,8 +12,8 @@
   - [x] Testen
   - [x] Currying, Partial Function Application
   - [x] Monaden
-  - [ ] Iteratoren, Generatoren, yield
-  - [ ] Immutable Data Structures
+  - [X] Iteratoren, Generatoren, yield
+  - [X] Immutable Data Structures
 
 - [ ] Fachlich
   - [ ] Dateiupload in die Cloud
@@ -26,6 +26,6 @@
 - [SICP.js](https://www.amazon.de/dp/0262543230)
 - [Videoreihe zu SICP.js, wird noch fortgesetzt](https://www.youtube.com/playlist?list=PL6QrD7_cU23nAxplr627pg0AuHBIsjM8k)
 - [Category Theory in Haskell](https://en.wikibooks.org/wiki/Haskell/Category_theory)
-​- [Bartosz Milewski - Category Theory Lecture Series:](https://www.youtube.com/watch?v=I8LbkfSSR58)
-​- [Learn you a Haskell!](http://learnyouahaskell.com/chapters)
-
+- [Bartosz Milewski - Category Theory Lecture Series:](https://www.youtube.com/watch?v=I8LbkfSSR58)
+- [Learn you a Haskell!](http://learnyouahaskell.com/chapters)
+- [codewars.com](https://www.codewars.com/)

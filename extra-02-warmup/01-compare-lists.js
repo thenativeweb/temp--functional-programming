@@ -21,8 +21,8 @@ const test = () => {
 				console.error(`Expected ${actual} to be ${expected}.`);			
 			}		
 		}	
-	});	
-	
+	});
+
 	expect(compareLists([1,2,3], [1,2,3])).toBe(true);
 	expect(compareLists([], [])).toBe(true);
 	expect(compareLists(['bla'], ['bla'])).toBe(true);
